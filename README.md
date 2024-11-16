@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
