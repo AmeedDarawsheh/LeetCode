@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmeedDarawsheh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
