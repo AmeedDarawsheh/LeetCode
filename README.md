@@ -12,9 +12,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1894-merge-strings-alternately](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Trie
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
