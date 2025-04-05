@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmeedDarawsheh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmeedDarawsheh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
