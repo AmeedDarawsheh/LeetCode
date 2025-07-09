@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0027-remove-element) |
 | [1635-number-of-good-pairs](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2145-grid-game](https://github.com/AmeedDarawsheh/LeetCode/tree/master/2145-grid-game) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AmeedDarawsheh/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AmeedDarawsheh/LeetCode/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/AmeedDarawsheh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
